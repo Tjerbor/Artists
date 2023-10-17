@@ -1,4 +1,4 @@
-#32 - Otherside
+#30 - Liquid Dreams
 1Booth
 2XM
 A.Krishna
@@ -7,6 +7,7 @@ Abingdon Boys School
 Above & Beyond
 Ace Aura
 Admin Explode & Enrico NRC
+Adryiano
 AgonyOST
 Ai Kayano & Mariko Nakatsu &  Natsumi Takamori
 Akari Kitou / Mitama (CV: Akari Kitou)
@@ -66,6 +67,7 @@ Carpenter Brut
 Channl
 Chaos In The CBD
 CHiCO with HoneyWorks
+Chihei Hatakeyama
 Choley
 Choro Club
 ChouCho
@@ -76,6 +78,7 @@ Clement Leroux
 Code3000
 Color Bottle & Masao Akashi
 Complexive
+Country Club Martini Crew
 cozy kev
 Crackazat
 CRANKDAT
@@ -86,6 +89,7 @@ Crvvcks
 CURE97
 Daichi Yamamoto
 Daisy×Daisy
+Dance Cult
 Darius
 daste.
 Dave Winnel
@@ -162,6 +166,7 @@ Invader 303
 Ivory & Hammerhead & Dani King
 Izzard.
 Jacal
+Jack Wins
 Jacob B
 JACOPO SB
 Jae Jae
@@ -169,12 +174,17 @@ Jasko
 Jay Phoenix & Rizox
 Jejune
 Jetique
+JOEL - Antisocial (JOEL Remix)
+Joel Corry Diamonds (Joel Corry Remix)
+Jonth
 Joris Voorn
 Junerule
 Jun Kamoda
+Junko Ohashi
 Just Kiddin
 K1R3Y
 Kagami Seira
+Katsu Hoshi
 Katzhu Mixes/Masters
 Keanler & LEWYN
 kemt
@@ -196,11 +206,13 @@ kyu
 LALZIN & Gotlucky
 Lamorn
 Lavera
+Leftwing : Kody
 Le Phunk
 LF SYSTEM
 Lia
 liad
 Lil Sil
+LittGloss
 livetune adding Takuro Sugawara (from 9mm Parabellum Bullet)
 llwll
 Loftus
@@ -215,6 +227,7 @@ MADZI
 Magnetic Family
 Makenai
 Maki Goto
+Makoto Matsushita
 Mamoru Miyano
 Manami Numakura
 Manifold Home
@@ -231,6 +244,7 @@ Megumi Nakajima
 Memorex Memories
 Mika Nakashima
 Mil3sperhour & Lunanescence
+Minako Yoshida
 Miro
 MITO & Meeyo
 Mixed Matches
@@ -240,6 +254,7 @@ Mord Fustang
 MoreNight
 MRD & Narciss
 Mr Stabalina
+MR STABALINA
 Ms.Sill
 MT SOUL
 MUCC
@@ -265,6 +280,7 @@ North Sky
 NOTSO
 Nulbarich
 nuphory & Luna Lenta
+Nyanners
 Okamura Yasuyuki
 Oliver Nelson
 otxhello
@@ -274,12 +290,14 @@ peak divide
 Perturbator
 Phaze Zero
 Phonic Youth
+Pixel Terror
 PRISM.
 Pure Gem
 QUEENDOM
 RAISE A SUILEN
 Ravitex
 REED
+REESE
 Rejection
 RemixSample
 Rich Ellis
@@ -314,7 +332,9 @@ SL X Ruze
 snctm. & jamesjamesjames
 Solar Fields
 somanylynx
+Song: Zak Joshua & Alice Kübe - I Don't Wanna Wait (Nalestar & DRAY Remix)
 Sons of Maria
+Sound Quelle
 SOXX
 SPACE RUSH (ANX)
 Spitfya & Desembra
@@ -358,10 +378,12 @@ Toxic Wraith & Jonah Sky
 TOYMATZ
 TriangleReality
 T-Rice
+TRU Concept
 UNCHAIN
 Vega
 Vital Mode
 Viticz & Ririsya
+Volen Sentir
 VOLTA
 Volyri
 Vulp
@@ -372,6 +394,7 @@ WEI https://soundcloud.com/musicofwei
 west1ne
 Who-ya Extended
 Will Møller
+Wongo
 Wooden
 xaev
 Xeudo Code
@@ -383,9 +406,11 @@ Yoko Takahashi, Hidetoshi Sato, Toshiyuki Ohmori & Neko Oikawa
 Yonezu Kenshi
 Yosi Horikawa
 yousei
+Yukacco
 YUKIKA
 Yukiyanagi
 Yung Lain
+Yunosuke
 YURI!!! on ICE feat. w.hatano
 Yuu Miyashita
 ZAQ
