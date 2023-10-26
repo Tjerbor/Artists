@@ -32,7 +32,6 @@ BODÉ
 Bradio
 Brandon Mignacca
 Bring Me the Horizon
-label: by colour.
 Caitlin Myers
 CamaCon
 CamelPhat
@@ -54,7 +53,6 @@ Dazegxd
 Desired
 Dillon Francis
 Disclosure
-label: Diverse System Records
 DJ Arno / Amarn Arnold
 dj-Jo / Zenpaku
 DJ Planet Express
@@ -118,12 +116,14 @@ Koos
 Kosmo Kint
 Krozz 
 kuatari
+label: by colour.
+label: Diverse System Records
 Label: Fresh Take Records
+Label: Lost Garden Records
 Last Island
 LeeHi
 liam robertson
 LORN
-Label: Lost Garden Records
 Luke Elderkin
 Machico
 Machine Girl
