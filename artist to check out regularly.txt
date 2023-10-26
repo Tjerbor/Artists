@@ -1,4 +1,3 @@
-#####
 A.Immanuel
 A.L.I.S.O.N
 A.M.R
@@ -33,7 +32,7 @@ BODÉ
 Bradio
 Brandon Mignacca
 Bring Me the Horizon
-by colour. (label)
+label: by colour.
 Caitlin Myers
 CamaCon
 CamelPhat
@@ -55,7 +54,7 @@ Dazegxd
 Desired
 Dillon Francis
 Disclosure
-Diverse System Records
+label: Diverse System Records
 DJ Arno / Amarn Arnold
 dj-Jo / Zenpaku
 DJ Planet Express
@@ -121,17 +120,16 @@ Krozz
 kuatari
 Label: Fresh Take Records
 Last Island
-Layzi
 LeeHi
 liam robertson
 LORN
-Lost Garden Records
+Label: Lost Garden Records
 Luke Elderkin
 Machico
 Machine Girl
 Mammal Hands
 Martin Ikin
-Matabei. 
+Matabei.
 Mat Zo
 meltingscreen
 Memorex Memories
@@ -146,9 +144,7 @@ MRVN
 MYTH & ROID
 Nalestar
 Never Dull
-nikko
 Nikko
-Niko the Kid
 Niko The Kid
 noctane
 Noctane & Reversed
@@ -167,7 +163,6 @@ pema. / fuii
 PERTURBATOR
 PHAT DIX
 Phlegmatic Dogs
-Platinum Doug
 platinumdoug / Platinum Doug
 Plexi.
 punyu munyu
@@ -233,7 +228,6 @@ yuma.
 Yung Bae
 Yunosuke
 Zamilska
-ZAMILSKA
 ZDX
 Zeroth
 Ангелочек
