@@ -1,4 +1,3 @@
-A.Immanuel
 A.L.I.S.O.N
 A.M.R
 Aeden
@@ -8,9 +7,10 @@ Aimer
 AJG
 Akeos
 Alex Sloane
-Alva Gracia
+Alva Gracia / A.Immanuel
 Andre Sobota
 Android52
+Android Apartment
 Anvay
 Aran One
 Asunder
@@ -80,7 +80,7 @@ Funkin Matt
 Gavinco
 Gemini Drive / CORP81
 George Kelly
-glue70
+glue70 https://glue70.bandcamp.com/music
 Grownden
 Guy Arthur
 Head Under Heels
@@ -116,10 +116,12 @@ Koos
 Kosmo Kint
 Krozz 
 kuatari
-label: by colour.
-label: Diverse System Records
-Label: Fresh Take Records
-Label: Lost Garden Records
+Label: by colour. https://bycolourcrew.bandcamp.com/music
+Label: Diverse System Records https://diversesystem.bandcamp.com/
+Label: Fresh Take Records https://freshtakerecords.bandcamp.com/
+Label: https://thediscoexpress.bandcamp.com/
+Label: Lost Garden Records https://lostgardenrecords.com/
+Label: Unitone https://unitonejp.bandcamp.com/
 Last Island
 LeeHi
 liam robertson
@@ -170,6 +172,7 @@ Purple Disco Machine
 Raimukun
 reche
 Reek / Asatsumei
+Reformist https://soundcloud.com/reformistuk/tracks
 Reinhardt Buhr
 RetroVision
 Rhys Lindsay
@@ -184,7 +187,7 @@ Ryo Takahashi / Void_Chords https://vgmdb.net/artist/14673
 salute
 Sarah Alainn
 Satin Jackets
-Saury
+Saury / urbanite with a cat https://saury.bandcamp.com/ https://saurymall.bandcamp.com/
 Seycara
 Shin Sakiura
 Ship Wrek
