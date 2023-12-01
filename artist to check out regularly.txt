@@ -17,6 +17,7 @@ Asunder
 asuzora
 Au5
 Auralnauts
+Autodepth
 Avans
 BABYMETAL
 Bace
@@ -54,6 +55,7 @@ Desired
 Dillon Francis
 Disclosure
 DJ Arno / Amarn Arnold
+DJ Cinéma Quartier Latin
 dj-Jo / Zenpaku
 DJ Planet Express
 DJ Psychiatre
@@ -106,6 +108,7 @@ Katzhu
 Kcik / Andrey Djackonda
 KC Lights
 KDS
+Keerthin
 Keiichi Okabe
 Kevin Penkin
 khai dreams
@@ -128,8 +131,10 @@ LeeHi
 liam robertson
 LORN
 Luke Elderkin
+LYPO
 Machico
 Machine Girl
+Mameyudoufu
 Mammal Hands
 Martin Ikin
 Matabei.
@@ -159,6 +164,7 @@ Odd Mob
 Oliver Heldens / HI-LO
 Omnicorum
 OOTORO
+Pamplem'House
 Panuma
 Pearse Dunne
 Peggy Gou
@@ -204,6 +210,7 @@ Stereo Dive Foundation
 SUI UZI
 SXTH SNS
 Sybranax
+SØNATA
 Taf Athorik
 Tanger
 Tchami
@@ -212,6 +219,7 @@ The Weeknd
 Tom Apex
 Tom Aspaul
 Tom Westy
+TOYMATZ
 Triple-Q
 Trypbox
 Valmont
@@ -224,6 +232,7 @@ Victor Pilava
 VIQ
 voljum
 Voost
+Will Møller
 Woven (Murtagh)
 Yanaginagi(やなぎなぎ)
 Yoru
@@ -235,3 +244,4 @@ Zamilska
 ZDX
 Zeroth
 Ангелочек
+♥ GOJII ♥
