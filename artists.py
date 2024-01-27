@@ -15,4 +15,4 @@ if __name__ == '__main__':
             pyperclip.copy(line)
         print(name + ":")
         print(line)
-        tools.write_cleaned_txts(name, line)
+        tools.write_cleaned_txts(txts[i], read_txts[i])
