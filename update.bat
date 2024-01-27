@@ -27,5 +27,5 @@ Set _isodate=%_yyyy%-%_mm%-%_dd% %_hour%:%_minute%
 
 git add .
 git.exe commit -m "%_isodate%"
-git.exe push origin main
+git.exe push origin dev
 pause
