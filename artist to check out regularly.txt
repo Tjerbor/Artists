@@ -9,8 +9,8 @@ Akeos
 Alex Sloane
 Alva Gracia / A.Immanuel
 Andre Sobota
-Android52
 Android Apartment
+Android52
 Anvay
 Aran One
 Asunder
@@ -57,10 +57,10 @@ Dillon Francis
 Disclosure
 DJ Arno / Amarn Arnold
 DJ Cinéma Quartier Latin
-dj-Jo / Zenpaku
 DJ N.S. (Kou!) https://soundcloud.com/dj-nyanko-switcher/tracks
 DJ Planet Express
 DJ Psychiatre
+dj-Jo / Zenpaku
 DNA https://soundcloud.com/dna_x
 Dos
 DRAY
@@ -73,7 +73,6 @@ Emil Rottmayer
 Emplexx
 Fazius
 Fergo
-Féry
 fhána
 Fin del Mundo
 FISHER
@@ -83,6 +82,7 @@ Fraxy
 Funeral Advantage
 Funk Fiction
 Funkin Matt
+Féry
 GARNiDELiA
 Gavinco
 Gemini Drive / CORP81
@@ -90,8 +90,8 @@ George Kelly
 glue70 https://glue70.bandcamp.com/music
 Grownden
 Guy Arthur
-Head Under Heels
 H-el-ical//
+Head Under Heels
 himynameisshan
 Holo
 Hotel Pools / Dreamhome
@@ -111,8 +111,8 @@ Kairi Yagi
 Kajacks
 Kash Krabs
 Katzhu
-Kcik / Andrey Djackonda
 KC Lights
+Kcik / Andrey Djackonda
 KDS
 Keerthin
 Keiichi Okabe
@@ -123,7 +123,7 @@ knowless🟔
 KO3
 Koos
 Kosmo Kint
-Krozz 
+Krozz
 kuatari
 Label: by colour. https://bycolourcrew.bandcamp.com/music
 Label: Diverse System Records https://diversesystem.bandcamp.com/
@@ -143,14 +143,14 @@ Machine Girl
 Mameyudoufu
 Mammal Hands
 Martin Ikin
-Matabei.
 Mat Zo
+Matabei.
 meltingscreen
 Memorex Memories
 Mick Gordon
 MK (Marc Kinchen)
-Moe Shop
 Mo Falk
+Moe Shop
 Monolithic
 Moore Kismet
 Mr Stabalina
@@ -161,12 +161,12 @@ nano
 Never Dull
 Nikko
 Niko The Kid
-noctane
-Noctane & Reversed
 No Mana
-Nonexistent
 No Oath
 No Thanks
+noctane
+Noctane & Reversed
+Nonexistent
 Odd Mob
 Oliver Heldens / HI-LO
 Omnicorum
