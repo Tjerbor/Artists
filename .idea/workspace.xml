@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68537b1a-890b-4b12-9e52-bbf957a80eb2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/add_silence.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artist to check out next.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artist to check out next.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/artist to check out regularly.txt" beforeDir="false" afterPath="$PROJECT_DIR$/artist to check out regularly.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,7 @@
       <workItem from="1716825250514" duration="7077000" />
       <workItem from="1716838173521" duration="1192000" />
       <workItem from="1716894024127" duration="2014000" />
+      <workItem from="1721493666984" duration="52000" />
     </task>
     <servers />
   </component>
