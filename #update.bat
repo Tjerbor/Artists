@@ -1,4 +1,4 @@
-!echo off
+@echo off
 D:
 cd "\Daten\Dokumente\Artists"
 
