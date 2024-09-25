@@ -25,7 +25,9 @@ FOR /F "skip=1 tokens=1-6" %%G IN ('WMIC Path Win32_LocalTime Get Day^,Hour^,Min
 :: Display the date/time in ISO 8601 format:
 Set _isodate=%_yyyy%-%_mm%-%_dd% %_hour%:%_minute%
 
+@echo on
 git add .
 git.exe commit -m "%_isodate%"
 git.exe push origin main
+@echo off
 pause
