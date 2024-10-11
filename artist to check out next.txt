@@ -464,7 +464,6 @@ Pat Lok
 Patrick Hagenaar & Sweedish + Patrick Hagenaar & Sweedish - Disarm
 Paul Vinx
 PBH
-Pegassi
 Peggy Gou
 Perturbator
 Phonat
@@ -718,3 +717,5 @@ Zookeper
 Zookëper
 Паулина Андреева - Closer (Movie Version)
 ぱらどっと
+
+D.O.D
