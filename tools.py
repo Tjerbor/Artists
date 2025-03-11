@@ -19,7 +19,7 @@ def read_txt(txt, ignore_list: list = None) -> list:
 
             if ignore_list is not None:
                 for compr in ignore_list:
-                    if lines[line_comparer].lower().startswith(compr.lower()):
+                    if lines[line_comparer].lower().startswith(compr.lower()) or lines[line_comparer + 1].lower().startswith(compr.lower()):
                         skip = True
                         break
 
