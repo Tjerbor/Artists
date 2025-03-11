@@ -7,7 +7,7 @@ def get_txts() -> list:
     return [file for file in glob.glob("*.txt")]
 
 
-def read_txt(txt) -> list:
+def read_txt(txt, ignore_list: list = None) -> list:
     with open(txt, encoding="utf8") as file:
         lines = [line.rstrip() for line in file]
         lines = [line for line in lines if len(line) > 1]
@@ -15,9 +15,18 @@ def read_txt(txt) -> list:
         lines = sorted(lines, key=str.casefold)
 
         for line_comparer in range(len(lines) - 1):
-            ratio = scuffed_similar(lines[line_comparer].lower(), lines[line_comparer + 1].lower())
-            if ratio > 0.8:
-                print(f'Similarity found {ratio}:\n{lines[line_comparer]}\n{lines[line_comparer + 1]}\n')
+            skip = False
+
+            if ignore_list is not None:
+                for compr in ignore_list:
+                    if lines[line_comparer].lower().startswith(compr.lower()):
+                        skip = True
+                        break
+
+            if not skip:
+                ratio = scuffed_similar(lines[line_comparer].lower(), lines[line_comparer + 1].lower())
+                if ratio > 0.8:
+                    print(f'Similarity found {ratio}:\n{lines[line_comparer]}\n{lines[line_comparer + 1]}\n')
 
         return lines
 
