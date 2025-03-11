@@ -1,5 +1,6 @@
 import glob
 import random as rd
+from difflib import SequenceMatcher
 
 
 def get_txts() -> list:
@@ -12,6 +13,12 @@ def read_txt(txt) -> list:
         lines = [line for line in lines if len(line) > 1]
         lines = list(set(lines))
         lines = sorted(lines, key=str.casefold)
+
+        for line_comparer in range(len(lines) - 1):
+            ratio = scuffed_similar(lines[line_comparer].lower(), lines[line_comparer + 1].lower())
+            if ratio > 0.8:
+                print(f'Similarity found {ratio}:\n{lines[line_comparer]}\n{lines[line_comparer + 1]}\n')
+
         return lines
 
 
@@ -23,3 +30,16 @@ def write_cleaned_txts(txt_name, cleaned_txt):
 
 def get_random_line(txt: list) -> str:
     return txt[rd.randint(0, len(txt) - 1)]
+
+
+def similar(a: str, b: str):
+    return SequenceMatcher(None, a, b).ratio()
+
+
+def scuffed_similar(a: str, b: str):
+    length = min(len(a), len(b))
+    # length = int((len(a) + len(b)) / 2)
+    if length >= 5:
+        return SequenceMatcher(None, a[:length], b[:length]).ratio()
+    else:
+        return SequenceMatcher(None, a, b).ratio()
