@@ -26,10 +26,8 @@ Auralnauts
 Autodepth
 Avans
 BABYMETAL
-Bace
 Beave
 Ben Rainey
-Berlinist
 Billain
 Black Loops
 BLAIR
@@ -44,14 +42,13 @@ BVSSIC
 Caitlin Myers
 CamaCon
 Caravan Palace
-Chongo
+Chongo (The Chongo Show)
 ChouCho
 Chris Nordgren (Everhood)
 Chuey
 ClariS
 Clown Core
 Club2Tokyo https://soundcloud.com/club2tokyo/tracks
-COMPUTER DATA
 crayon moon
 crayvxn
 Croatia Squad
@@ -68,7 +65,7 @@ Dinka
 Disclosure
 DJ Arno / Amarn Arnold
 DJ Cinéma Quartier Latin
-DJ N.S. (Kou!) https://soundcloud.com/dj-nyanko-switcher/tracks
+Kou! / DJ N.S. https://soundcloud.com/dj-nyanko-switcher/tracks
 DJ Planet Express
 dj-Jo / Zenpaku
 DNA https://soundcloud.com/dna_x
@@ -89,7 +86,6 @@ Ezraa (Richrd.Msc)
 Fazius
 Fergo
 fhána
-FISHER
 Floating Door (Deezer)
 Forhill / endless withdrawal
 Francis VI
@@ -121,7 +117,6 @@ James Landino
 James Wiles / Valiant
 Jingby
 Joan Jose (Music: https://open.spotify.com/intl-de/artist/6uql75Amu5Sb5DuowvloMP/discography/all, Flips: https://soundcloud.com/joanjosemusic)
-Jordan Burns
 Joyryde
 JPKy
 Juwubi
@@ -130,7 +125,6 @@ KAIFU
 Kairi Yagi
 Kajacks
 Katzhu
-KC Lights
 Kcik
 KDS
 Keerthin
@@ -179,7 +173,6 @@ nightiger
 Nikko
 Niko The Kid
 No Mana
-No Oath
 No Thanks
 noctane
 Nohost
@@ -195,14 +188,12 @@ paulø https://soundcloud.com/paulomakesmusic/tracks
 Pearse Dunne
 Peggy Gou
 pema. / fuii
-PERTURBATOR
 PHAT DIX
 Phlegmatic Dogs
 platinumdoug / Platinum Doug
 Plexi.
 PRISM. https://soundcloud.com/prismteam
 punyu munyu
-Purple Disco Machine
 Raimukun
 reche
 Reek / Asatsumei
@@ -234,7 +225,6 @@ Soleily
 SPACE LACES
 SPACEWALK
 SPURME
-Stef Davidse
 Stereo Dive Foundation
 Subdise
 SUI UZI
@@ -255,7 +245,7 @@ Tag: https://soundcloud.com/tags/techcore
 TAKU INOUE  https://vgmdb.net/artist/9537
 Tanger
 Tchami
-The Chongo Show
+
 The Lonely Island
 The Weeknd
 Tom Apex
@@ -268,10 +258,8 @@ Utada Hikaru (Theme Songs only)
 Valmont
 Vayre
 Veeshy
-Veneo Isrugi
 veveve
 Victor Pilava
-VIQ
 voljum
 Voost
 Wooden
