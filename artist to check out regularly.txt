@@ -112,6 +112,7 @@ HYBS
 iilo
 Infinite Portal
 Invader 303 (Soundtracks only https://invader303.com/soundtracks)
+Inzo
 Jacal
 James Landino
 James Wiles / Valiant
@@ -148,6 +149,7 @@ Label: Megarex https://vgmdb.net/org/3419
 Label: Unitone https://unitonejp.bandcamp.com/
 Last Island
 LeeHi
+liad
 liam robertson
 lime lips pou
 LORN
@@ -249,8 +251,13 @@ Tag: https://soundcloud.com/tags/colour%20house
 Tag: https://soundcloud.com/tags/colourhouse
 Tag: https://soundcloud.com/tags/complextro
 Tag: https://soundcloud.com/tags/dubstep%202
+Tag: https://soundcloud.com/tags/Full%20Flavor
+Tag: https://soundcloud.com/tags/Full-Flavor
 Tag: https://soundcloud.com/tags/future%20house
 Tag: https://soundcloud.com/tags/megacollab
+Tag: https://soundcloud.com/tags/multigenre
+Tag: https://soundcloud.com/tags/omnigenre
+Tag: https://soundcloud.com/tags/polygenre
 Tag: https://soundcloud.com/tags/techcore
 TAKU INOUE  https://vgmdb.net/artist/9537
 Tchami
