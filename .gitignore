@@ -5,3 +5,4 @@ __pycache__
 *.flac
 *.ogg
 /*.png
+/data/backup*.json
