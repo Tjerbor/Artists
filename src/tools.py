@@ -19,20 +19,26 @@ def read_txt(txt, ignore_list: list = None) -> list:
 
             if ignore_list is not None:
                 for compr in ignore_list:
-                    if lines[line_comparer].lower().startswith(compr.lower()) or lines[line_comparer + 1].lower().startswith(compr.lower()):
+                    if lines[line_comparer].lower().startswith(compr.lower()) or lines[
+                        line_comparer + 1
+                    ].lower().startswith(compr.lower()):
                         skip = True
                         break
 
             if not skip:
-                ratio = scuffed_similar(lines[line_comparer].lower(), lines[line_comparer + 1].lower())
+                ratio = scuffed_similar(
+                    lines[line_comparer].lower(), lines[line_comparer + 1].lower()
+                )
                 if ratio > 0.8:
-                    print(f'Similarity found {ratio}:\n{lines[line_comparer]}\n{lines[line_comparer + 1]}\n')
+                    print(
+                        f"Similarity found {ratio}:\n{lines[line_comparer]}\n{lines[line_comparer + 1]}\n"
+                    )
 
         return lines
 
 
 def write_cleaned_txts(txt_name, cleaned_txt):
-    with open(txt_name, 'w', encoding="utf8") as f:
+    with open(txt_name, "w", encoding="utf8") as f:
         for line in cleaned_txt:
             f.write(f"{line}\n")
 
