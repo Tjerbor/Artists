@@ -1,0 +1,29 @@
+{
+  "name": "artists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:css": "npx @tailwindcss/cli -i app.css -o src/main/resources/daisyUI.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tjerbor/Artists.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tjerbor/Artists/issues"
+  },
+  "homepage": "https://github.com/Tjerbor/Artists#readme",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.1.13",
+    "tailwindcss": "^4.1.13"
+  },
+  "devDependencies": {
+    "daisyui": "^5.1.10"
+  }
+}
