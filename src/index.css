@@ -1,0 +1,8 @@
+@import "tailwindcss";
+@plugin "daisyui";
+@font-face {
+  font-family: 'Debutan Brush Script';
+  src: local('Debut Studio'), url("./fonts/Debutan Brush Script.ttf") format('truetype');}
+@font-face {
+  font-family: 'Rough Brush Script';
+  src: local('Isaac K'), url("./fonts/Rough Brush Script.ttf") format('truetype');}
