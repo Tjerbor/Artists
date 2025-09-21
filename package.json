@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build:css": "npx @tailwindcss/cli -i app.css -o src/main/resources/daisyUI.css"
+    "build:css": "npx @tailwindcss/cli -i app.css -o src/maresources\\static\\css/daisyUI.css"
   },
   "repository": {
     "type": "git",
