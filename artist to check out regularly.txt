@@ -102,6 +102,7 @@ Gemini Drive / CORP81
 George Kelly
 glue70 https://glue70.bandcamp.com/music
 Grant Steller (Deezer)
+Greg Aven
 Grizz!
 GRMN BLOOM
 Grownden
@@ -145,6 +146,7 @@ Kosmo Kint
 Kou! / DJ N.S. https://soundcloud.com/dj-nyanko-switcher/tracks
 Krozz
 kuatari
+Label: APEXA RECORDS
 Label: by colour. https://bycolourcrew.bandcamp.com/music
 Label: Diverse System Records https://diversesystem.bandcamp.com/
 Label: Fresh Take Records https://freshtakerecords.bandcamp.com/
@@ -207,6 +209,7 @@ Peggy Gou
 pema. / fuii
 PHAT DIX
 Phlegmatic Dogs
+Pillow Fort
 platinumdoug / Platinum Doug
 Plexi.
 PRISM. https://soundcloud.com/prismteam
@@ -265,6 +268,7 @@ Tag: https://soundcloud.com/tags/dubstep%202
 Tag: https://soundcloud.com/tags/Full%20Flavor
 Tag: https://soundcloud.com/tags/Full-Flavor
 Tag: https://soundcloud.com/tags/future%20house
+Tag: https://soundcloud.com/tags/mega%20collab
 Tag: https://soundcloud.com/tags/megacollab
 Tag: https://soundcloud.com/tags/multigenre
 Tag: https://soundcloud.com/tags/omnigenre
@@ -274,6 +278,7 @@ TAKU INOUE  https://vgmdb.net/artist/9537
 Tchami
 The Lonely Island
 The Weeknd
+Title: https://soundcloud.com/search/sounds?q=megacollab&filter.created_at=last_year
 Tom Apex
 Tom Aspaul
 Tom Westy
