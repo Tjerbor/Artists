@@ -9,7 +9,7 @@ def get_txts() -> list:
 
 def read_txt(txt, ignore_list: list = None) -> list:
     with open(txt, encoding="utf8") as file:
-        lines = [line.rstrip() for line in file]
+        lines = [line.strip() for line in file]
         lines = [line for line in lines if len(line) > 1]
         lines = list(set(lines))
         lines = sorted(lines, key=str.casefold)
