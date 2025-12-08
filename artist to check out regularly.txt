@@ -9,7 +9,6 @@ Aethral
 Aevion
 Aimer
 aishii
-AJG
 Akari Kito
 Akeos
 Alex Sloane
@@ -38,7 +37,6 @@ BODÉ
 Boxplot
 Bradio
 Brandon Mignacca
-Bring Me the Horizon
 BVRRN https://soundcloud.com/bvrrn
 BVSSIC
 Caitlin Myers
@@ -92,7 +90,6 @@ fembread
 Fergo
 fhána
 Floating Door (Deezer)
-Forhill / endless withdrawal
 Francis VI
 Fraxy
 Funeral Advantage
@@ -108,7 +105,6 @@ Grant Steller (Deezer)
 Greg Aven
 Grizz!
 GRMN BLOOM
-Grownden
 Guy Arthur
 H-el-ical//
 Head Under Heels
@@ -123,6 +119,7 @@ iilo
 Infinite Portal
 Invader 303 (Soundtracks only https://invader303.com/soundtracks)
 Inzo
+Isaa Corva
 Jacal
 James Landino
 James Wiles / Valiant
@@ -137,7 +134,6 @@ KAIFU
 Kairi Yagi
 Kajacks
 kana https://soundcloud.com/kanaijuin/tracks
-Katzhu
 Kcik
 KDS
 Keerthin
@@ -146,7 +142,6 @@ Kero
 Kevin Penkin
 khai dreams
 KO3
-Kosmo Kint
 Kou! / DJ N.S. https://soundcloud.com/dj-nyanko-switcher/tracks
 Krozz
 kuatari
@@ -173,7 +168,6 @@ Machico
 Machine Girl
 Maestro Chives
 Mameyudoufu
-Mammal Hands
 Matabei.
 meltingscreen
 Memorex Memories
@@ -205,7 +199,6 @@ Oliver Heldens
 Omnicorum
 ones https://soundcloud.com/onmyones
 OOTORO
-Pamplem'House
 Pandar https://soundcloud.com/pandarofficial
 Pat Lok
 paulø https://soundcloud.com/paulomakesmusic/tracks
@@ -281,7 +274,6 @@ Tag: https://soundcloud.com/tags/omnigenre
 Tag: https://soundcloud.com/tags/polygenre
 Tag: https://soundcloud.com/tags/techcore
 TAKU INOUE  https://vgmdb.net/artist/9537
-Tchami
 The Lonely Island
 The Weeknd
 Title: https://soundcloud.com/search/sounds?q=megacollab&filter.created_at=last_year
