@@ -18,6 +18,7 @@ Android Apartment
 Android52
 Anvay
 Aran One https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq https://vgmdb.net/artist/12273 https://www.beatport.com/artist/aran/259660/tracks
+Aridon
 Arlo
 Asunder
 asuzora
@@ -28,6 +29,7 @@ Avans
 axis twelve
 BABYMETAL
 Bad Computer
+bauti https://soundcloud.com/bauti_music
 Beave
 Ben Rainey
 Billain
@@ -59,14 +61,17 @@ Criminal Code
 Curbi
 Cvmpliant / Cyberdreamthesis333 / ANGELINK
 Cynthoni (Sewerslvt)
+Dairou Tanaka
 DANGER
 Daniel Deluxe
 Dayna Roman
+Deathbrain
 Deenise
 Deichkind
 Desired
 Dinka
 Disclosure
+Distayne
 DJ Arno / Amarn Arnold
 DJ Cinéma Quartier Latin
 DJ Planet Express
@@ -96,6 +101,7 @@ Francis VI
 Fraxy
 Funeral Advantage
 Funk Fiction
+furryconvention2005
 Féry
 Gamma Centauri
 GARNiDELiA
@@ -117,6 +123,7 @@ Hotel Pools / Dreamhome
 HYBS
 idunno
 iilo
+IMANU
 Infinite Portal
 Invader 303 (Soundtracks only https://invader303.com/soundtracks)
 Inzo
@@ -124,6 +131,7 @@ Isaa Corva
 Jacal
 James Landino
 James Wiles / Valiant
+Jasq / Jaskushii
 jian
 Jingby
 Joan Jose (Music: https://open.spotify.com/intl-de/artist/6uql75Amu5Sb5DuowvloMP/discography/all, Flips: https://soundcloud.com/joanjosemusic)
@@ -146,14 +154,17 @@ KO3
 Kou! / DJ N.S. https://soundcloud.com/dj-nyanko-switcher/tracks
 Krozz
 kuatari
+kye lewis https://soundcloud.com/kyelewismusic/tracks
 Label: APEXA RECORDS
 Label: by colour. https://bycolourcrew.bandcamp.com/music
 Label: Diverse System Records https://diversesystem.bandcamp.com/
+Label: FORM https://soundcloud.com/artbyform
 Label: Fresh Take Records https://freshtakerecords.bandcamp.com/
-Label: HOUZ https://soundcloud.com/houzmusicblog
+Label: HOUZ https://soundcloud.com/houzmusicblog https://soundcloud.com/houz-records
 Label: https://thediscoexpress.bandcamp.com/
 Label: Lost Garden Records https://lostgardenrecords.com/
 Label: Megarex https://vgmdb.net/org/3419
+label: RewindFlash https://rewindflash.bandcamp.com/
 Label: Unitone https://unitonejp.bandcamp.com/
 lalanoi
 Last Island
@@ -183,6 +194,7 @@ Mylta
 MYTH & ROID
 nano
 Nanoo
+nearocker https://soundcloud.com/nearocker
 Never Dull
 Nightcap
 nightiger
@@ -198,7 +210,7 @@ Odd Mob
 Oliver Heldens
 Omnicorum
 ones https://soundcloud.com/onmyones
-OOTORO
+OOTORO / ken raka https://soundcloud.com/ootorosmurf
 Pandar https://soundcloud.com/pandarofficial
 Pat Lok
 paulø https://soundcloud.com/paulomakesmusic/tracks
@@ -210,8 +222,10 @@ Phlegmatic Dogs
 Pillow Fort
 platinumdoug / Platinum Doug
 Plexi.
+Porta https://soundcloud.com/portraofficial
 PRISM. https://soundcloud.com/prismteam
 punyu munyu
+qrest https://music.apple.com/us/artist/qrest/1566193454
 Raimukun
 reche
 Reek / Asatsumei
@@ -234,13 +248,16 @@ Satin Jackets
 Saury / urbanite with a cat https://saury.bandcamp.com/ https://saurymall.bandcamp.com/
 Sawano Hiroyuki / SawanoHiroyuki[nZk]
 Scruscru LTD(BLBL) releases
+SEKH https://soundcloud.com/sekhmakesmusic
 SennaRin (Maybe Sawano combo)
 sentient. https://soundcloud.com/sentient_sounds
 Shadient
+shameless.
 Sharks
 Shin Sakiura
 Siik (Not dnb stuff)
 Similar Outskirts
+SKYHIGH
 slphr
 Sokudo!
 Soleily
@@ -253,6 +270,7 @@ StarlingEDM
 Stereo Dive Foundation
 Subdise
 SUI UZI
+SUJi °
 Sycobox
 SØNATA
 Taf Athorik
@@ -288,12 +306,14 @@ Vayre
 Veeshy
 veveve
 Victor Pilava
+Viznode
 voljum
 Voost
 Wooden
 Woven (Murtagh)
 xaev (alt: https://soundcloud.com/xaevtheworld)
 xyzzyx https://soundcloud.com/totallynotxyzzyx
+ya01oi https://soundcloud.com/ya0i
 Yanaginagi(やなぎなぎ)
 Yoru
 Yuga
