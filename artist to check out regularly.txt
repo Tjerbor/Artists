@@ -152,11 +152,11 @@ Label: APEXA RECORDS
 Label: Diverse System Records https://diversesystem.bandcamp.com/
 Label: FORM https://soundcloud.com/artbyform
 label: Futurized Radio https://soundcloud.com/futurizedrecords/sets/futurized-radio
-Label: The Disco Express https://thediscoexpress.bandcamp.com/
 Label: Lost Garden Records https://lostgardenrecords.com/
 Label: Megarex https://vgmdb.net/org/3419
 Label: Night Owl Collective https://soundcloud.com/nightowlcollective
 label: RewindFlash https://rewindflash.bandcamp.com/
+Label: The Disco Express https://thediscoexpress.bandcamp.com/
 Label: Unitone https://unitonejp.bandcamp.com/
 lalanoi
 Last Island
