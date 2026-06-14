@@ -174,6 +174,7 @@ Label: by colour. https://bycolourcrew.bandcamp.com/music
 Label: Diverse System Records https://diversesystem.bandcamp.com/
 Label: FORM https://soundcloud.com/artbyform
 Label: Fresh Take Records https://freshtakerecords.bandcamp.com/
+label: Futurized Radio https://soundcloud.com/futurizedrecords/sets/futurized-radio
 Label: https://thediscoexpress.bandcamp.com/
 Label: Lost Garden Records https://lostgardenrecords.com/
 Label: Megarex https://vgmdb.net/org/3419
@@ -201,6 +202,7 @@ meltingscreen
 Memorex Memories
 METAROOM
 Mick Gordon
+MIDNIGHT CLUB https://soundcloud.com/middonaitukurabu
 MK (Marc Kinchen)
 Mo Falk
 Moe Shop
@@ -329,6 +331,7 @@ Tom Westy
 TOYMATZ
 Triple-Q
 Trypbox
+UN1VERSE
 Utada Hikaru (Theme Songs only)
 Valmont
 Vayre
